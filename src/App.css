@@ -1,0 +1,22 @@
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+
+}
+.App-header ul{
+  list-style-type: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.App-header ul li{margin: 0 10px;}
+.App-link {
+  color: #61dafb;
+}
+.content-body{height: calc(100% - 59px); min-height: 500px; padding: 20px;}
+footer{ padding: 20px;}
